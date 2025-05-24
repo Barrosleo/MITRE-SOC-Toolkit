@@ -53,7 +53,7 @@ MITRE-SOC-Toolkit/
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/MITRE-SOC-Toolkit.git
+   git clone https://github.com/Barrosleo/MITRE-SOC-Toolkit.git
    cd MITRE-SOC-Toolkit
    ```
    
